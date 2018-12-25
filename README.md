@@ -16,6 +16,9 @@ The user first configures the cipher by typing in an input key. The input key wi
 2. Select letters on the first row of letters (located underneath the heading "Encoding")
   * Row of letters directly below represent the corresponding offset letters
 
+The SourceText represents your selected string of characters.
+The CiphertText represents the ciphered text corresponding to the given SourceText.
+
 A demonstration of the configuration is shown below.
 
 ![Initialize](initialize.png)
