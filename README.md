@@ -9,7 +9,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   * Individual Letter Components
 
 ## How it works
-The user first configures the cipher by typing in an input key. The input key will encrypt the source text by offsetting it with the ASCII values of each character. As the user types a letter into the source key, the characters of the input key will be iterating, varying the offset of each new letter. 
+The user first configures the cipher by typing in an input key. The input key will encrypt the source text by offsetting it with the ASCII values of each character. As the user types a letter into the source key, the characters of the input key will be iterating, varying the offset of each new letter.
+
+## Directions
+1. Enter a keyword in the input box at the top (labelled "Keyword")
+2. Select letters on the first row of letters (located underneath the heading "Encoding")
+  * Row of letters directly below represent the corresponding offset letters
 
 A demonstration of the configuration is shown below.
 
